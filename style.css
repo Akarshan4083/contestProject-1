@@ -1,0 +1,23 @@
+h1{
+   
+}
+#div{
+    font-size: large;
+    border:  solid thin;
+    /* border-color: black; */
+    /* border-radius: 0px; */
+    
+    padding: 10px;
+}
+#list{
+    font-size: large;
+}
+a{
+    font-size: large;
+}
+img{
+    width: 40%;
+    height: 40%;
+    /* border-radius: 10px; */
+
+}
